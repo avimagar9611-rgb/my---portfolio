@@ -209,7 +209,7 @@ function App() {
               <h3>B.E. Information Science & Engineering</h3>
 
               <p className="college-name">
-                ABC Engineering College
+                AMC Engineering College
               </p>
 
               <p>
