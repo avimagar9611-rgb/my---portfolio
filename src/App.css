@@ -363,7 +363,7 @@ body {
 .education-section {
   min-height: 70vh;
   padding: 120px 8%;
-  background: #2e457d;
+  background: #0f172a;
 }
 
 .education-container {
@@ -382,8 +382,8 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 40px;
-  background: #7693d0;
-  border: 1px solid #4d7aa2;
+  background: #111827;
+  border: 1px solid #334155;
   border-radius: 15px;
 
   display: flex;
@@ -396,7 +396,7 @@ body {
 
 .education-card:hover {
   transform: translateY(-8px);
-  border-color: #a755c2;
+  border-color: #38bdf8;
 }
 
 .education-icon {
@@ -410,7 +410,7 @@ body {
 }
 
 .education-content h3 {
-  color: #afcb61;
+  color: #38bdf8;
   font-size: 25px;
   margin-bottom: 15px;
 }
@@ -437,7 +437,7 @@ body {
 .contact-section {
   min-height: 60vh;
   padding: 120px 8%;
-  background: #bd6eb1;
+  background: #111827;
 
   display: flex;
   align-items: center;
